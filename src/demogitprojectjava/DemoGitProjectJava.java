@@ -12,6 +12,8 @@ public class DemoGitProjectJava {
         int a =5;
         
         System.out.print(a);
+        
+        System.out.println("Update from GitHub Repo");
     }
     
 }
